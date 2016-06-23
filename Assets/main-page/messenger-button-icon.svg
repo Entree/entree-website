@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Messenger logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-page" transform="translate(-1932.000000, -181.000000)" fill="#FFFFFF">
+            <g id="Navigation-bar" transform="translate(149.000000, 151.000000)">
+                <g id="Messenger-button" transform="translate(1773.000000, 22.000000)">
+                    <g id="Contents" transform="translate(10.000000, 8.000000)">
+                        <path d="M9.05910602,27.6955387 C8.16771576,28.4220368 7.03292707,28.8571429 5.79731752,28.8571429 C2.93014333,28.8571429 0.605839416,26.5143129 0.605839416,23.6242857 C0.605839416,22.3788276 1.03750485,21.234994 1.75825816,20.3364989 C1.01683666,18.61333 0.605839416,16.7121872 0.605839416,14.7142857 C0.605839416,6.9034014 6.8877419,0.571428571 14.6368613,0.571428571 C22.3859807,0.571428571 28.6678832,6.9034014 28.6678832,14.7142857 C28.6678832,22.52517 22.3859807,28.8571429 14.6368613,28.8571429 C12.6547583,28.8571429 10.7686489,28.4428697 9.05910602,27.6955387 Z M4.60583942,19.3610215 L11.7828454,15.2792014 L15.6416663,19.0649721 L23.9369576,10.5714286 L16.4607597,14.6187038 L12.5027222,10.8711052 L4.60583942,19.3610215 Z" id="Messenger-logo"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
